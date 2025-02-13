@@ -4,10 +4,12 @@
 This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
 
 ## Technologies used:
-- React
-- Typescript
+- React.js
+- TailWind CSS
 - Styled Components
+- Express.js
+- Node.js
  
 ## To run this project:
 - install npm
-- npm start
+- npm run dev
